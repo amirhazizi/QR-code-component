@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Livesite](#livesite) 
+  - [Live Site](#livesite) 
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![screenshot of project](./design/screenshot.png)
 
-### Livesite
+### Live Site
 
 [Click Here](https://lovely-sherbet-284170.netlify.app/)
 
